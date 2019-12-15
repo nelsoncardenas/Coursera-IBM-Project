@@ -20,8 +20,8 @@ There are some design decisions for this training:
 - After detecting the best model, is used all the original dataset to train, to take advantage of all data for the future test set
 
 # References
-https://scikit-learn.org/stable/modules/cross_validation.html
-https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html
-https://machinelearningmastery.com/k-fold-cross-validation/
-https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
-https://www.coursera.org/learn/machine-learning-with-python
+- https://scikit-learn.org/stable/modules/cross_validation.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html
+- https://machinelearningmastery.com/k-fold-cross-validation/
+- https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
+- https://www.coursera.org/learn/machine-learning-with-python
