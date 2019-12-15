@@ -24,3 +24,4 @@ https://scikit-learn.org/stable/modules/cross_validation.html
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html
 https://machinelearningmastery.com/k-fold-cross-validation/
 https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
+https://www.coursera.org/learn/machine-learning-with-python
