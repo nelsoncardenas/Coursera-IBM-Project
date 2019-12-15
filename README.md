@@ -7,6 +7,7 @@ Models used:
 - Decision Tree
 - Support Vector Machine
 - Logistic Regression
+
 The code has a section "====== Answer ======" were the models are made.
 
 ### K-Fold strategy and training function
