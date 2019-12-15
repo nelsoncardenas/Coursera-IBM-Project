@@ -3,7 +3,7 @@
 This project aims to get 4 machine learning models to estimate loan payment probability. 
 
 Models used:
-- K-Nearest Neghbours
+- K-Nearest Neighbours
 - Decision Tree
 - Support Vector Machine
 - Logistic Regression
