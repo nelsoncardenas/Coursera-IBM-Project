@@ -8,7 +8,7 @@ Models used:
 - Support Vector Machine
 - Logistic Regression
 
-The code has a section "====== Answer ======" were the models are made.
+The code has a section "====== Answer ======" were models are made.
 
 ### K-Fold strategy and training function
 There are some design decisions for this training:
