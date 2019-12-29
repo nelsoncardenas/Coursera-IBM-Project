@@ -13,7 +13,7 @@ The code has a section "====== Answer ======" were the models are made.
 ### K-Fold strategy and training function
 There are some design decisions for this training:
 
-- To use K-Folds cross-validation to make a better decision for the hiper-parameters of each model
+- To use K-Folds cross-validation to make a better decision for the hyperparameters for each model
 - To use StratifiedKFold to keep the percentage of labels in training and testing
 - To use F1-Score because these problems have imbalanced datasets and F1-Score can improve the analysis of performance
 - To use a function to wrap many training iterations and make an automated decision for model selection.
